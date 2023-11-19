@@ -1,8 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# A Step by Step Tutorial on How to Send Emails with Next.js
+
+Built with the Next.js App Router, Resend, TypeScript, & Tailwind
+
+![Project Image](https://assets.caisy.io/assets/4a29c84c-fc66-48b8-a448-1bdc87d5b642/e0c5cd9f-878d-4079-898f-1fbf1f32f97b/dc4783c1-4d8e-42d3-8b50-2053b36d31972.resendnewinterface.png)
 
 ## Getting Started
 
-First, run the development server:
+First, clone the project. Once you've cloned it, run the development server:
 
 ```bash
 npm run dev
@@ -16,21 +20,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying the files to play around with it!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Written by [Iroro Chadere](https://twitter.com/iroro_chad)
